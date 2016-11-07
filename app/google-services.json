@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "896787747027",
+    "firebase_url": "https://holatest-3cc72.firebaseio.com",
+    "project_id": "holatest-3cc72",
+    "storage_bucket": "holatest-3cc72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896787747027:android:8819ddd7c77d0811",
+        "android_client_info": {
+          "package_name": "com.example.cristianfranco.holatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896787747027-huk8oaev3f0glliltl9erdjuga2r2kn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cristianfranco.holatest",
+            "certificate_hash": "01BF76B3AA71DA7C0C63BF45113CDEEE7F0B4159"
+          }
+        },
+        {
+          "client_id": "896787747027-khd69vn1ivflao3ec7frak6avl1teu28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08f9496RiqMHJSfLFF5VwQAxR7qe5O8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896787747027-khd69vn1ivflao3ec7frak6avl1teu28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
